@@ -22,7 +22,7 @@ int main (void){
     float a,b,bil1,bil2,a1,b1,x1,x2,c,s,dx,fa,fb,hasil;
     char finish;
 
-    start:                                                // looping do-while
+    start:                                                // statement awal untuk pengulangan
     // kumpulan string dalam looping
         printf("\nOperasi Kalkulator\n");
         printf("------------------\n");
